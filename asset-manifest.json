@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToniPaso/eshop.git/static/css/main.4f549e43.css",
+    "main.js": "/ToniPaso/eshop.git/static/js/main.84936b7a.js",
+    "index.html": "/ToniPaso/eshop.git/index.html",
+    "main.4f549e43.css.map": "/ToniPaso/eshop.git/static/css/main.4f549e43.css.map",
+    "main.84936b7a.js.map": "/ToniPaso/eshop.git/static/js/main.84936b7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f549e43.css",
+    "static/js/main.84936b7a.js"
+  ]
+}
